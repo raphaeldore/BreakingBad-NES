@@ -11,4 +11,16 @@ Windows computer required for development unless you have Wine for Linux or an .
 
 NES emulator required for running the game. Emulators are not illegal unless you pirate games that you do not own. 
 
-We give you consumer ownership of the ROM upon downloading and full ownership to any major changes you make to the game.
+
+Credit, Usage, and Ownership
+============================
+
+The following is not legally enforced, but we trust you to understand it:
+
+We give you consumer ownership of the ROM upon downloading and full ownership to any major changes you make to the game. granted that you give Bradley+ credit for the source.
+
+
+Contact
+=======
+
+To get in contact with me, please email carpenterjasonb@gmail.com and make the subject relevant and I'll get back to you shortly.
