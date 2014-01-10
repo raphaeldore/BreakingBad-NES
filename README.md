@@ -1,4 +1,4 @@
-BreakingBad-NES
+BreakingBad-NES game in C language
 ===============
 
 Breaking Bad game for the Nintendo Entertainment System playable on the original hardware. Requires cc65.
