@@ -1,0 +1,1 @@
+You need a donor cart, some blank EPROMs that are the right size and an EPROM programmer. Write the .CHR to the CHR chip, .PRG to the PRG chip and the .HDR to the Header chip.
