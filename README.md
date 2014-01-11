@@ -11,6 +11,12 @@ Windows computer required for development unless you have Wine for Linux or an .
 
 NES emulator required for running the game. Emulators are not illegal unless you pirate games that you do not own. 
 
+My website with screenshots and an online demo for those who don't have an emulator: Htmlbattles.webs.com
+
+![Screenshot 1](http://i.imgur.com/A5ghu1Z)
+
+![Screenshot 2](http://i.imgur.com/iSCbkmT.png)
+
 
 Credit, Usage, and Ownership
 ============================
