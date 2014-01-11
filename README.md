@@ -17,6 +17,8 @@ My website with screenshots and an online demo for those who don't have an emula
 
 ![Screenshot 2](http://i.imgur.com/iSCbkmT.png)
 
+[Video](http://www.youtube.com/watch?v=Z-viXWysiIs&feature=youtu.be)
+
 
 Credit, Usage, and Ownership
 ============================
